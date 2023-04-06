@@ -1,4 +1,4 @@
-n=list(map(int,input("enter ur list: ").split()))
+n=[4,6,7,8,3,12,17,19,22]
 k=sorted(n)
 e=[]
 o=[]
