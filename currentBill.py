@@ -1,6 +1,6 @@
-bill_no = input("enter your bill no:")
-un1= int(input("enter the units first no:"))
-un2 = int(input("enter the units ending no:"))
+bill_no = 1234567892
+un1= 12345
+un2 = 12435
 cu = un2-un1
 total = 0
 if cu <= 300:
